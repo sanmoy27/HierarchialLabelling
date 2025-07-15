@@ -11,7 +11,7 @@ This project aims to automatically assign hierarchical labels (parent and child 
 - **Model Inference:** A large language model (LLM) is used to generate label predictions for new reviews, guided by the selected examples and the prompt.
 - **Evaluation:** The predicted labels are compared to the ground truth using Jaccard accuracy and ROUGE metrics.
 
-## Example Selectors
+## Example Selectors using MMR
 
 - **Relevance:** Example selectors ensure that only the most relevant examples are included in the prompt, making the LLM's output more accurate and context-aware.
 - **Efficiency:** By limiting the number of examples, prompts remain concise and within token limits.
