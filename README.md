@@ -12,7 +12,7 @@ This project aims to automatically assign hierarchical labels (parent and child 
 - **Evaluation:** The predicted labels are compared to the ground truth using Jaccard accuracy and ROUGE metrics.
 
 ## Example Selectors using MMR
-
+**MMR Selector** ensures that the selected examples are not only relevant but also diverse, covering a broader range of cases and reducing the risk of the model overfitting to a narrow context.
 - **Relevance:** Example selectors ensure that only the most relevant examples are included in the prompt, making the LLM's output more accurate and context-aware.
 - **Efficiency:** By limiting the number of examples, prompts remain concise and within token limits.
 - **Generalization:** Dynamic selection of examples helps the model adapt to a wider variety of inputs, improving robustness.
