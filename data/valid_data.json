@@ -1,0 +1,3804 @@
+[
+  {
+    "review": "So runny, you'll go through this in a few showers-It has a great smell, and lathers nicely. The problem is, when you turn it over, it runs out like it's milk in there. The lack of viscosity makes it easy to waste.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Love this body wash.-Love this body wash. Lathers up really good, little gos a long way. Also smells great. My wife and daughter have stolen the citrus from me...\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Works great, smells great-Better deal for Dove? No chance. Amazon is the best deal. Dove smells good, man smells good. And he seems clean. All is right with the world.\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Clean fresh-After using this product I can say this is one of the best scented body wash I've used. Not only does it clean deep, it does it without harsh chemicals. The ingredients of the body wash have a pleasant scent that smells natural and clean. After squeezing some into my hand the whole bathroom immediately filled with the scents. The body wash lathers up nicely and washes off easily, leaving behind a light pleasant clean scent. [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Deep Cleaning"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Natural Fragrance "
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Mildness"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Smells good! My favorite.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "A very nice bodywash that doesn't overwhelm-I enjoy the scent and it does not stick to my skin and overwhelm like other body washes. Also a little goes a long way. I was so impressed when I tried the shaving cream that I decided to try the body wash and will continue to use it!!!! After 2 months have not even gone thru half a bottle yet!\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "I continue to use this product!!-Clean fresh feeling, excellent value and readily available in stores, Scent is not overpowering allowing you to be respectful of today's scent sensitivity.\n\n\n\n",
+    "labels": [
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great stuff-Great scent, clean feeling and doesn't take much.",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Hell yeah-Amazing smell and the price is so much better than the local store. A great find on amazon\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "My friend has tried this and has said him and his brother like this scent and brand. They said that it is also moisturising.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      }
+    ]
+  },
+  {
+    "review": "Best Body Wash-Refuse to use anything else\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Love this smell\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Just the best-Always have loved this scent. Highly recommended. Very fast shipping. No problems.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "The pump makes it easy to use and cleaner-Husband uses this instead of bar soap.\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Go to the store and smell before you buy-Smell is awful\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Smells great.-Smell cleaning.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Awsome-Only thing for a man\n",
+    "labels": [
+      {
+        "parent": "Social Recognition",
+        "child": "Masculine"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      }
+    ]
+  },
+  {
+    "review": "EMJ Charcoal activated body wash-I am an employee of The Vitamin Shoppe and I received this product complimentary for testing purposes. This product smells great and you get the results of charcoal product.I have not gotten any breakouts in several weeks\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Ingredients",
+        "child": "Charcoal"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Medical Use"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Great price on a product I cannot buy in stores near me!\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      }
+    ]
+  },
+  {
+    "review": "great, smells good-good bodywash, smells great too\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Love it!-Love this stuff!! Smells awesome\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "i love it-I love it it works great and best smells good\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "More subtle than I hoped-It looks like a bottle of booze. It sounds like a bottle of booze. I didn't need it to be as obnoxious as Axe, but this is a lot more subtle than I had hoped. Scent is gone before I leave the house, which is probably too soon. I accidentally bought (2) bottles, so it'll be around a while. Won't buy again.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Great product, smells good enough to eat!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "No smell-My man is a hard working man and this is the only product we've found that helps with the sweat and he still smells great\n\n",
+    "labels": [
+      {
+        "parent": "Odor Control",
+        "child": "Sweat"
+      }
+    ]
+  },
+  {
+    "review": "Great buy-My boys love this product so will keep reordering. Fast shipping\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "Awesome!-Smells great and washes off nice! This is my new \"go-to\" body wash.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "It cleans-Soap\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Bath is fun-There are always 2-3 types of body soap in the bathroom. I enjoy different scents depending on my mood. Method men juniper + sage enriches your heart with a rich scent.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Premium Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Great Product-It works for me.\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      }
+    ]
+  },
+  {
+    "review": "Actual Awesome-Sauce-Keeps me clean and smelling more manly than I actually am.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Fantastic-Been buying EMJ for a while now. Fresh new scents are great and always worth it. Get the matching bodywash, but prepared to get sniffed all day. Lol\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      },
+      {
+        "parent": "Social Recognition",
+        "child": "Sex Appeal"
+      }
+    ]
+  },
+  {
+    "review": "Best Axe scent for me-Product was as described.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Great scent and value!-I've been using this product for years. It smells great and really cleans and moisturizes.\n",
+    "labels": [
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Ok-Nice fragrance\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Impressive!-Love it and highly recommended\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "I love the smell and my boyfriend loves love soap. Make his hair super soft and shinny. Plus it doesn't cost a whole lot. #Influnencer #Dove\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      },
+      {
+        "parent": "Price",
+        "child": "Affordability"
+      }
+    ]
+  },
+  {
+    "review": "I HATE THE BLUE COLOR IT GETS ALL OVER MY SHOWE\nPlease for the love of Mike change that color. Let's get some other type of gel. This stuff is a mess! And, up the fragrance. It's not long lasting anymore.",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Product Appearance",
+        "child": "Color"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Smells Great and lathers up well.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Hubby loves it-I gifted the old spice foam bodywash to my husband and he is in love with the body wash. Firstly, the swagger scent is amazing and I like the smell too, it is so refreshing. Secondly, he likes the fact that he does not need to lather a lot. It was his first time using a foam body wash and he does not want to use normal ones anymore. Great product overall. [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Base"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Awesome freshness.-Works well.\n\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      }
+    ]
+  },
+  {
+    "review": "Smells great-Great scented body wash.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "A-1 product. Will order it again in the future\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "Love the manly scent and economy-Best combo wash you can buy!\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      }
+    ]
+  },
+  {
+    "review": "Harry's body washes are",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "I fairly like how this product comes 3 in one, but I'm not sure if it works well, I also like the fact it has natural ingredients to it hmmm.. I think my brother would love this.\n",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      },
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      }
+    ]
+  },
+  {
+    "review": "Good fragrance-Does the job\n\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Exfoliate-If you looking for an Exfoliate that smells okay...this is for you.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Husbands favorite-Husband loves the scent and the convenience. Reordering again today,\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Glad to have found-Personal favorite soap, they don't carry this scent locally\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      }
+    ]
+  },
+  {
+    "review": "Great feeling after use-Like the fresh scent and the clean feeling after use\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "It's Old Spice, it doesn't suck.-Not sure if it foams well or how it leaves your skin feeling, but my boyfriend smells great.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "i love Amazon, please keep up first i want to say-The dove product is a good product. The guys I buy it for, now feel that their skin is glowing and more durable as a man. They love it. I ordered some for Christmas last year. This is a reorder. Thank you for shipping thru Amazon. You guys really get things out to your customers; I too use Dove products.. I don't know why I was ordering from Ebay no More. I love Amazon.\n",
+    "labels": [
+      {
+        "parent": "Appearance",
+        "child": "Skin Tone Improvement"
+      }
+    ]
+  },
+  {
+    "review": "Would not buy again-Smells nice coming out of the bottle but once on the body its odorless. I find the opening to large allowing the fluid to come out to fast and in excessive amounts\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Nice product, smells good, docked a star for false claims to be natural-This is a good body wash product. It smells good and my wife often comments how much she likes it.\n\nI would have given it five stars, but it really rankles me that the manufacturer is trying to pass this product off as \"naturally derived.\" The number two ingredient after water is sodium lauryl sulfate (SLS), a surfactant and foaming agent that gives you that nice lathery feeling that tells you you're getting clean. Yes, it can be derived from coconut or palm oil rather than from petroleum, and I guess that's what the manufacturer means.\n\nBut it's still sodium lauryl sulfate, for Pete's sake. I'm no rampant environmentalist that is going to tell you SLS will give you cancer. The FDA has tested and approved it. But when folks look for natural ingredients, it's not usually SLS they are seeking. There are plenty of people who will tell SLS is very dangerous. Even mainstream folks recognize it can irritate sensitive skin.\n\nNice body wash. But don't tell me your SLS product is natural. Please. This is just betting on consumer ignorance.\n",
+    "labels": [
+      {
+        "parent": "Brand Accountability",
+        "child": "Advertising Integrity"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Buy it! Best price!!!-Great refreshing scent. Love it!\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "more sanitary than soap - This body wash is far more sanitary than soap. Nothing is worse than going into the shower without knowledge of where someone put the soap bar. With this body wash, everyone can take care of their bodies without infecting anyone else with their skin cells and germs.\n\nIts comfortable. Its smooth. It rinses off easily.\n\n",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Smoothness"
+      }
+    ]
+  },
+  {
+    "review": "Best Scent Yet.\nThey need to make more products with this scent, because its the only Axe product I buy now. None of that artificial sweet smell, just a pure woodsy smell. Serious Axe, you need to make more products with this scent.",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      }
+    ]
+  },
+  {
+    "review": "So smooth-I've been using this once a day in my shower for the past week. I love the fact I can just spray it on my hand and wash. It's really smooth and leaves a great smell. Definitely prefer the foam than the gel. [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Base"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Smoothness"
+      }
+    ]
+  },
+  {
+    "review": "It cleans me up well but has no scent.-Feels like body wash. Looks like body wash. Seems to clean me up pretty well. It has absolutely no scent. This might actually be a good thing for some. I wish it made me smell like a new man. It doesn't.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "not good value-size very small\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great product-Love this product however you can buy it for less money at Target now\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "Buy this for my fianc and he loves it it smells amazing and I have to admit Ive even used it myself if you times it leaves the skin feeling soft and smooth and makes my showers that much more enjoyable\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "YUM-My man has tried all these flavors now and loves this one! It's his second fave. The cedar & cypress is the absolute fave. I'm in love with them both!\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Scent is too faint-The scent for this soap was too faint for me. I wasn't looking for overpowering AXE-type scents, but I did want a clean smell. The scent on this soap was so faint as to be worthless. It does provide a clean feel, but the scent doesn't last. If you're looking for a lightly-scented soap -- this is right for you. If not, pick another product.",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "As advertised. Excellent quality item.-As advertised. Excellent quality item.\n",
+    "labels": [
+      {
+        "parent": "Brand Accountability",
+        "child": "Advertising Integrity"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      }
+    ]
+  },
+  {
+    "review": "My wife loves it-My wife loves it. Definitely a panty dropper.\n",
+    "labels": [
+      {
+        "parent": "Social Recognition",
+        "child": "Sex Appeal"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "My husband loves this! Great scent!\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Good soap, no scent-Everything was great except no scent. The pump worked great, the soap lathered up nice and rinsed off without residue.\nBut no scent, odorless",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      }
+    ]
+  },
+  {
+    "review": "Wonderful smell and wash-Great body wash and faboulous scent! You really do smell the combination of lavender, grapefruit, and praline notes. Thank you Axe for creating another awesome product for the shower.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      }
+    ]
+  },
+  {
+    "review": "Leaves skin smelling fresh-My son loves this body wash. He's been using it every day since we got it. He loves the fresh smell and also that it leaves his skin feeling soft. He wants me to buy it for him after this one is all gone \n\n\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Win, win-I received a sample of this and had to order for my husband. Absolutely one of our favorites. He likes the way it cleans, I love the way it smells. Win, win\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Great smell-I purchased these for my Husband for father's Day and he loves the scen and he smells like lavender after his shower. I also got the deodorant. He is very happy with this product and so am I.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Gifting",
+        "child": "Special Occassions"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Great for Travel!-I absolutely love this scent: my husband uses it every day and it is fantastic! I bought these for him after his last trip where a generic refillable bottle leaked. They are the perfect size, are easy to refill, and now we have back-ups if one is lost, or accidentally thrown away. We have never had problems with them leaking during travel, either.\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Travel-friendly"
+      }
+    ]
+  },
+  {
+    "review": "Awsome-Good stuff. I work in harsh environments and this stuff will clear up your skin\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Man soap-Smells good\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Great scent!-This body wash has an awesome scent. I love the simple nature of it and it lathers very well when using a loofa. Couldn't ask for a better sudsing body wash made with simple ingredients that works like this stuff! [This review was collected as part of a promotion.]\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Thank you-My youngest son loves this scent. He loves Axe products\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Fantastic Body and Face Wash! - My son loved this Dove Men+Care Face and Body Wash. The product has a fresh, light scent, and is very hydrating: which is particularly nice while we're dealing with this frigid winter weather. Also, the product is very concentrated, meaning that you only need a little to wash your entire body and face. My son loves that he only needs this product to wash both his body and face when he's rushing to get ready in the morning! I highly recommend this Face and Body Wash.\n\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Season Compatibility"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Effectiveness of Body Wash-I have only used it once so far but I have felt refreshed and active all day!\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Efficacy",
+        "child": "Long Lasting Results"
+      }
+    ]
+  },
+  {
+    "review": "As good as the other Dove+Men body wash-This Endurance + Comfort body was is refreshingly good. You don't need much for it to go along way. It smells great and leaves your skin feeling refreshed long after a shower. Highly recommend giving it a try.\n\n\n\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Long Lasting Results"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Harry's Products-Decided to try out Harry's body wash. Great product actually feel clean after. Without the residue feeling.\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      }
+    ]
+  },
+  {
+    "review": "It smells great-Awesome\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "It's the best body wash I've ever used. It's a bit expensive but it's worth it because it feels and smells so good. It feels like luxury and makes me feel really clean. Suds up really well and a little goes a long way. Love this stuff.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Self Esteem",
+        "child": "Indulgence "
+      }
+    ]
+  },
+  {
+    "review": "Meh. Not My Style.-I would buy the normal body wash if I was you. Seems like you never get enough shampoo and also feels weaker compared to the traditional body wash.\n\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Efficacy",
+        "child": "Strength"
+      }
+    ]
+  },
+  {
+    "review": "Awesome service and products!\u009d-The products that I've used have been phenomenal! The service is awesome also! Very satisfied! The body wash, razors and shave balm is on point!\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "My fianc\u00c3\u00a9 uses this body wash and I love the way he smells and the way it leaves his skin. Seriously, he doesn't use lotion so when he gets out he's nice and soft. It's affordable at target and I love target so! Lol but seriously, I would recommend it\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Price",
+        "child": "Affordability"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Great Smell and Clean-This is a great body wash that is perfect for my needs. I love the smell and clean it makes me feel after the shower. Even my wife compliments me when I use this body wash. The best part is that it doesn't make my skin dry and flaky. I would highly recommend this product to men. [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Lives in my gym bag;-I carry this in my gym bag and using it when showering after workouts in lieu of the stuff that the gym stocks in the showers. The scent is pleasant but not too strong. Works up a good lather, and scrubs well. I haven't tried the other scents of the product but I like the citrus scent.\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Exfoliation"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Great mens body wash-I received a sample at my local target store and I really enjoyed the scent. I have heard of the method brand and never thought about trying the mens body wash. The smell is a great smell for men and I will be ordering more or stopping at my local target store as soon as I go through my bottle.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Well Known"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Not a good scent-Smell doesnt last\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Smells great-It smell great and I love the pour nozzle, makes it easy to apply without lift the whole bottle. Works only the last drip on soup. Smells great too!\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Good deal-Smells great\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "All around good products-Great smell and great for sensitive skin. Thus far, the brand is becoming one of my favs.\n",
+    "labels": [
+      {
+        "parent": "Product Safety",
+        "child": "For Sensitive Skin"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "I Do Not Like This Shower Gel-Where do I start first it takes an awful lot to get any foam, The scent is faint and It does not moisturize at all. It seems like I am washing my body with shampoo. Plus after a couple washes I do not care for the scent, I will not buy again.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great Fragerance.-Great body wash that lather's nicely, smells great and the price for a 6 bottle's was very reasonable!\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Just buy it...thank me later-Wish i could hoard all the fig body wash...seriously i have never found a scent ive liked so much...it is seriously intoxicating and cleans well with no dryness...better than body wash 3x the price...oh and its only $7 at walmart or target\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Fresh and clean.-Loved the scent. Nice and clean. Great for summer.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Season Compatibility"
+      }
+    ]
+  },
+  {
+    "review": "Invigorating indeed-Great value\n\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great Minty Bodywash*-Advertises itself as a very eco-friendly bodywash. I've used their other scents but prefer this one since I have a preference for mint instead of a more abstract \"sandalwood\" smell.\n\nScent is clear but not overpowering, and the bodywash doesn't irritate my body (I have mild eczema). Works great in the shower for my daily wash.",
+    "labels": [
+      {
+        "parent": "Brand Accountability",
+        "child": "Eco-friendly"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "For Sensitive Skin"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Does it's job!-I'm not super picky when it comes to body wash, and this product worked like it needed to! It had a great fragrance to it and seemed to work perfectly. Overall I have no complaints about this product and would recommend to a friend! [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Awesome Scent.-Awesome scent my husband showered in the morning and it lingered all day in the house. My new product to buy and give as gifts..\n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Super thick gel-Super thick gel, but doesn't lather as much as expected. Can't smell the scent at all. Also there isn't any of the mint tingly sensation.\n\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Cooling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Great scent, soft skin!-Old spice products haven't really been something I purchased in the past. I wanted to get a body wash that was better on my skin and didn't dry it out. This body wash is awesome! The scent is light, but has a great aroma to it. My skin feels soft and not dry after a shower. The value is ok for buying this many bottles at a time. I will definitely purchase this again when I run out.\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "the best of AXE's men's body washes-For me, the best of AXE's men's body washes. Really lathers up well, and since I'm camped all the time, works well in all kinds of water (hard, soft, in between). Smells great!\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Packing wasnt done accuratly-We loved the scent of the body wash but the tops were not secured shut so there was body wash all over the bottles and box. It was a mess to clean up.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "My Go-To body wash-Bought this for my husband once and he has never wanted any other kind since. He does a lot of manual labor and gets quite dirty. This is his fav. It has tiny cleansing beads and smells really good. The bottle was shorter in size than the one I usually buy in store but still same product.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Granules"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "I bought it for my son he loves this type ...-I bought it for my son he loves this type. It's hard to fined around here so when I saw it had to get it for him\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      }
+    ]
+  },
+  {
+    "review": "Will buy again-Didn't know what to expect but it's axe me and my wife love the smell\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Well Known"
+      }
+    ]
+  },
+  {
+    "review": "great buy-smells good and my husband loves it!\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "My favorite Body Wash-Great value and does not irritate my skin. Also has a pleasant masculine scent but not too strong.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Nice scent-This is my first time trying this brand. I mainly use body wash in the shower and I'm always looking for new scents. I like this scent because its not overpowering but still smells manly enough. The texture and lather of this product is just right. It doesnt take a whole lot to get a good lather so the product lasts longer. The packaging is really nice and it seems to be a high quality product. Very happy with this brand and product. [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Visual Appeal "
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "A must have product in Steamy Shower-After a long day at work, This products really works to destresses me when I use it in Hot shower. My teenage sons love it too. will purchase again from this supplier. Great packaging. Product well described.\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Visual Appeal "
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Excellent! Very pleased with quality and smells wonderful. Lathers with ease.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      }
+    ]
+  },
+  {
+    "review": "Strong scent-It's very thick and strong scent; not overwhelming.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      }
+    ]
+  },
+  {
+    "review": "Body wash-This is a good body wash, gets you clean and doesn't leave a residue or sticky feel. I like the smell, too. It makes a lather, but not too much, so it rinses off easily. Leaves skin feeling clean and refreshed. [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Not Greasy / Oily"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Hard to find-Favorite scent. Store shelves never have anymore. Always the first to go. Great stuff\n\n",
+    "labels": [
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Awesome smell-Awesome smell, nice product!\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Smells really good!!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Smooth Skin-Old Spice's Body Wash for Men Moisturize with Shea Butter left my skin feeling smooth and hydrated after just a few uses. [This review was collected as part of a promotion.]\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Quick Results"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Smoothness"
+      }
+    ]
+  },
+  {
+    "review": "I liked using this product. It doesn't dry out my face and it smells good too. I never used a face wash before but this stuff works and I will continue to use it as well.. Thanks for letting me try it for free XYstuff! (This review was collected as part of a promotion.)\n\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Best men's body wash around-Scent is great, not over powering. No strange ingredients and a great price too.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "smells great-Ordered this for my husband and I think it smells great!",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Clean with light scent-This body wash lathers easily, rinses clean, and has a pleasant, bright scent with a slight citrus note. Unlike a couple of reviewers, I did not find the scent to be strong. A little bit of the product goes a long way. It does not leave residue on the skin. It is not appropriate, however, to use as a shampoo. Overall, I find it a reliable product.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Meh-It's ok for the price, but nothing special. Comparing sandalwood smell to Zeus beardcare products, definitely doesn't smell as good (or as much like sandalwood).\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Cheaper elsewhere-Great smelling stuff but it's at Walmart for $7 a bottle.\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Smooths skin-This new item from cremo is great. Smooth skin. Great smell.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Smoothness"
+      }
+    ]
+  },
+  {
+    "review": "It contains a little menthol so if you have sensitive skin , be aware-Nice fresh scent for my hubs!\n",
+    "labels": [
+      {
+        "parent": "Product Safety",
+        "child": "For Sensitive Skin"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Ingredients",
+        "child": "Mint"
+      }
+    ]
+  },
+  {
+    "review": "AMAZON DOES IT AGAIN!!! [MIKE MCKENNA OFFICIAL REVIEW]-LADIES AND GENTLEMAN....MAY I HAVE YOUR ATTENTION? ....... PLEASE THANK YOU. TO ANYONE WHO HAS NOT EVER TRIED THIS PRODUCT (WHICH I DISCOVERED ABOUT 7 YEARS AGO) LET ME TELL YOU HOW LUCKY YOU ARE TO BE READING THIS REVIEW AND THAT AMAZON STOCKS/SELLS THIS PRODUCT THAT USED TO BE CALLED\"RATTLESNAKE PEEL\". I CAN'T EXPRESS TO ANYONE HOW BUMMED OUT I WAS WHEN I COULDN'T FIND ANYWHERE TO PURCHASE THIS FOR THE LAST 5 YEARS. FOR SOME REASON I NEVER THOUGHT OF CHECKING ON AMAZON FOR AXE PRODUCTS. I LEAVE THIS REVIEW WITH INCREDIBLE HAPPINESS AND PLEASURE......THIS IS SOOOOOOO EFFECTIVE FOR DEEP CLEANSING OF YOUR FACE AND BODY. IT HAS AN UNCANNY ABILITY TO SUCK UP ANY EXCESSIVE OIL THAT CAUSES ACNE TO FORM IN THE AREA. BUT AMAZINGLY AFTER RINSING OFF THE SNAKE PEEL YOUR FACIAL SKIN AND BODY HAVE THE SOFTNESS OF A BABY'S BOTTOM. I DID A DOUBLE TAKE WHEN I SAW THAT AMAZON STOCKS/SELLS THIS AND HAD TO MAKE SURE THAT IT WAS THE SAME THING THAT I HAD USED YEAR'S AGO. BUYING THE THREE PACK OR MORE IS YOUR BEST BET..... BELIEVE ME YOU'LL USE IT OR GIVE ONE TO A GOOD FRIEND TO TRY. EXPECT TO PAY JUST A LITTLE OVER FIVE DOLLARS PER BOTTLE FOR A FAIR PRICE. TY.... MICHAEL",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Deep Cleaning"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Medical Use"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Oil Control"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Good stuff-Love how this smells!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Smells really good-Good product!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Highly recommended-Great men's body wash with a great fragrance.",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Three Stars-FOUND THE FRAGRANCE NOT AS \u00e2\u20ac\u0153MASCULINE\u00e2\u20ac\u009d AS I EXPECTED.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Black Color Body Wash-Husband doesn't like the black color of the gel. Looks strange!\n\n\n",
+    "labels": [
+      {
+        "parent": "Product Appearance",
+        "child": "Color"
+      }
+    ]
+  },
+  {
+    "review": "it does the job-Great body wash with a nice scent\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Awesome-My son loves this product and will not use anything else.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "no fragrance whatsoever-It should have some fragrance. Right? Got mine at walmart, does not smell like anything. Liked the name but thats about the only positive I can come up with.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      }
+    ]
+  },
+  {
+    "review": "Great Price-Great product at a good price.\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Feels great.-The scent isn't too overpowering and the body wash feels a lot less harsh on my skin. Also big plus for the brand being environmentally & animal friendly.\n",
+    "labels": [
+      {
+        "parent": "Brand Accountability",
+        "child": "Animal Testing"
+      },
+      {
+        "parent": "Brand Accountability",
+        "child": "Eco-friendly"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Mildness"
+      }
+    ]
+  },
+  {
+    "review": "Good value-Good scent\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "No fragrance detectible-I thought Cedarwood would be a cool scent for the shower. I don't know, because there's no fragrance. There's not even a HINT of Cedarwood, or any fragrance for that matter. Makes me wonder: Defect in manufacturing, or product swap at the distributor? That said, it lathers generously and does not dry my skin.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Smell good-Scent smell very good\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "It used to be good...something must have changed-I've been using this product since they came out with Hydration Balance and it was fantastic. I just recently bought 3 bottles to bring up to work with me and was quite shocked to find out how watered down it was. It used to be a nice thicker soap but something must have changed with the formula and that is why I have given a fair rating.\n\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      }
+    ]
+  },
+  {
+    "review": "Five Stars-Smells very good. Husband enjoys it so far.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "my wife loves the scent-my wife originally bought a bottle for me in a chain drug store. after i used it, she complimented the smell. so i bought more from amazon. got a 2fer. good deal.\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "It's Amazing.-Bought this for my husband and we both looove it.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "Shipped with an open bottle!-One bottle perfect condition, love the smell will totally use. The other bottle came with the lid half off and open causing the soap to go all over my other items in my box!!!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Finally\nAll my local stores stopped carrying this scent and a few months ago I checked the website and they only had bars of this fragrance finally I found it. Love love love this scent. I am a happy camper\n\n",
+    "labels": [
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "good stuff-Good Stuff.een using for years.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "my husband loves it!-I introduced this shower gel to my husband because of the better ingredients. He absolutely loves it (the best he ever tied)! It leathers up well and the scent is nice. It's a winner.\n\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Peer Recommendation",
+        "child": "Wife / Girlfriend"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Good smelling body wash-I like the new axe scent.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Soothing scent-Good soap\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Aromatherapy"
+      }
+    ]
+  },
+  {
+    "review": "Great Price and Soap!-Couldn't find in any stores near where I live so bought it and will buy again. Love the scent!!\n",
+    "labels": [
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "I think my wife likes the smell!-product as described\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "My husband uses this body wash and loves it! He smells great, his skin feels soft and every time I go shopping he puts it on the list! It's affordable and a constant in his shower-hour lol ",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Weakest Scent and Doesn't Last.-Great price on the amount of bottles you get but the weakest smelling scent was of any of the Old Spice products I buy and I'm an OS fan. Much prefer the original scent over this. This Captain version is like a mild hand soap and the fragrance is gone within 5 minutes of leaving the shower.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "No better body wash!-Just every man jack body wash is the best that I have ever used. All natural no parabens yourself H no better product in my opinion highly recommend the meant is I tried the others as well but you're also very good.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      }
+    ]
+  },
+  {
+    "review": "The smell is great, long lasting! Refreshes you after a good shower! Makes my skin soft & feeling clean! Really good brand & they have lots of kinds! I use this one often since im more active. (This review was collected as part of a promotion.)\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Nice body wash-Better value than in store\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Great value : awesome scent-Excellent soap\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great Product-Great product. Skin feels fresh and clean\n\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Packaging-I love the product. It's the only body wash I use. Little recommendation for the shipper. The first time I ordered this the company taped the tops to keep from spilling. This time the lids weren't secured this time and the product leaked out.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "Good Smell, Good Suds-Smells really nice, but could be a little stronger/more potent. Suds up well and makes me feel squeaky-clean, in a good way\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Great product-I was breaking out from all the other body wash I had tried. This is great, no break-outs. It lasts for a long time. The one bottle lasted about two months. Smells good and has great lather. Thank you for this product.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      },
+      {
+        "parent": "Brand For Me",
+        "child": "Tolerance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Good stuff-Been using a while.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "Old Spice has a Winner-Had to pick this up at another store, since it was out of stock on Amazon, very nice scent, not strong, won't last very long, but it's cream based, so it's really good at moisturizing your skin, hi highly recommend if you wanna try something different from your dry skin\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Base"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Dryness Control"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      }
+    ]
+  },
+  {
+    "review": "The best shower soap for a guy I've found anywhere.-Smells good, cheap, and lasts a while. Also, if you belive the bottle, not too bad for the enviornment (which can be an issue with the micro-dermabrasion particles). My GF says I smell great!\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Brand Accountability",
+        "child": "Eco-friendly"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Mens Method Body Wash-I got this for my husband because he likes trying new body washes. At first i was skeptical... But after 1 use in the shower, he fell in love with the way it felt, and i fell in love with the way he smells \n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Fresh-Excellent scent\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "great value great scent-This pack is great value and I LOVE this scent. Smells amazing and a great help to save time not buying one at a time. Will certainly be buying this again 100% LOVE big packs of everyday use stuff. One thing I know for sure I'm not running out of body wash anytime soon \n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Packaging",
+        "child": "SKU"
+      }
+    ]
+  },
+  {
+    "review": "A solid men's body scrub-WIth the end of plastic beads in body wash, its hard to find a nice men's body wash scrub. Every Man Jack has nailed it, great scent and clean feeling.\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "One Star-Overly expensive and barely smells like sandalwood at all. So disappointed!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Great soap-Great soap. I like this foaming soap because it is kind of a mentholated feeling, fresh and crisp.\n\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Cooling"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      }
+    ]
+  },
+  {
+    "review": "Not a good value-Note the size on the bottle is much smaller than you would think very pungent perfume\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Good product-Quick delivery\nVery refreshing scent.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "My husband uses this body wash daily. He loves the Men's line from Dove. It smells clean and fresh, without smelling too feminine.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "Great scent, good price-Great scent, use in laundry as well...\n\n",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Multi-Purpose"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "I've used both the soap and the body wash. Love them both. I feel refreshed after my shower. It's a great price point and you get a lot for the value.\nI've used both the soap and the body wash. Love them both. I feel refreshed after my shower. It's a great price point and you get a lot for the value.\nBody Skin Concerns:Cellulite, Stretch Marks",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "It gets you clean!-Wish it had a pump, good product for the price.\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Love this so much! My husband took a wiff and was sold! The smell is so nice and leaves your skin feeling soft and actually clean! This brand is really so amazing. If you haven't yet tried it I'd go get some now!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Vegan, Safe, Sensitive-Doesn't really give moisture to my skin But it smells lovely. Doesnt leave any residue nor a fragrance to my body/skin after use. Love it=) Vegan and safe !\n",
+    "labels": [
+      {
+        "parent": "Product Safety",
+        "child": "For Sensitive Skin"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Brand Accountability",
+        "child": "Vegan"
+      }
+    ]
+  },
+  {
+    "review": "Love the smell-Lathers good.. and smells so clean\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Good smell , nice cleaning power-I received a free sample of this and am planning on purchasing more next time I go to the store. The packaging provides a subtle clean look and the formula does not disappoint from a smell or cleaning perspective. Handy size allows for convenient travel [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Travel-friendly"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Visual Appeal "
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Works great-I like it no testosterone/endocrine damaging ingredients\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      }
+    ]
+  },
+  {
+    "review": "My husband would buy this product again!-My husband really likes the scent of this product and says that it is very cleansing. [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Has NO Scent at all.-When I received the body wash, I thought I was going crazy because I couldn't smell anything at all. I use a cedarwood beard oil, and previously had a different cederwood body wash so I figured I'd give this one a shot. I shook it well just to make sure. I asked my roommates to smell it as well, and they also couldn't smell anything. Basically scentless. Not sure what happened. It's a non returnable item, so at least I only lost 5 bucks.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Free"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Wow-Last for at least 3,5 month for one person\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "This was a complimentary gift for joining harry's which i think is an amazing idea for them to allow you to pick a product you would like to try for free which i haven't seen a company do before. My husband and son love using this body wash! It smells really good and cleans really well.\nThis was a complimentary gift for joining harry's which i think is an amazing idea for them to allow you to pick a product you would like to try for free which i haven't seen a company do before. My husband and son love using this body wash! It smells really good and cleans really well.\nBody Skin Concerns:Stretch Marks",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Will definitely buy again!-Love this body wash for my husband! Smells great and nice sleek packaging. [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Packaging",
+        "child": "Visual Appeal "
+      }
+    ]
+  },
+  {
+    "review": "Nice product.-I always heard a lot of things about axe like it's just too much scent and a little too much of shampooy and you will have to scrub more than usual to rinse but that wasn't really true. I like it. It's not my go to brand but it's not bad at all. I would but more if they would beat Niviea.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Great product, been using for years. - I look good and smell good, can't keep the ladies away!\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Social Recognition",
+        "child": "Sex Appeal"
+      }
+    ]
+  },
+  {
+    "review": "great product-for my hubby......he loves this product and it is no longer available in our local stores\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      }
+    ]
+  },
+  {
+    "review": "Good scent-My husband loves this scent. The large size means less frequent purchases, and the pump makes it easier to use.\n\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Dispensing Mechanism"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Packaging",
+        "child": "SKU"
+      }
+    ]
+  },
+  {
+    "review": "A little goes a long way-Smells great and lathers up well! Don't use this on parts of your body with eczema tho.\n",
+    "labels": [
+      {
+        "parent": "Product Safety",
+        "child": "For Sensitive Skin"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Recommended for the natural people-I absolutely love this stuff! It has a very manly scent but not very strong. Nice for me cause i don't sneeze. It leaves your skin feeling moisturized and soft! GOING TO BUY AGAIN!!!\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Natural / Non-Toxic"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Solid Product with Great Scent-Compared to the body washes my partner used to use, this body wash smells a lot better. [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Smell Doesn't Last-It's a good smelling product, but the smell doesn't last.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Best body wash-Axe body washes are really the best. 5 stars\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      }
+    ]
+  },
+  {
+    "review": "Smells amazing-Love it\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Happy Customer-Dove body wash is my favorite! Thus is all I buy.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      }
+    ]
+  },
+  {
+    "review": "Excellent product-I love all the method products. Their body wash is awesome which is no surprise.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Personal Experience"
+      }
+    ]
+  },
+  {
+    "review": "I wish it shipped I love cremo and this forest blend is by far the best . I love the Wilderness and smells .\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      }
+    ]
+  },
+  {
+    "review": "I Love It-For the price, it was incredibly worth it. The smell is great, and for the price, I would definitely buy again. One bottle alone can last a month or two.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Meh.-So this product is very thin. Almost like they watered it down. Not saying they did but that's how it seemed. Anyway, outside of that issue though it's okay. Smells good.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Yes-Great value. Has literally revived my sex life. Thanks oldspice!\n",
+    "labels": [
+      {
+        "parent": "Social Recognition",
+        "child": "Sex Appeal"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Would reccomend-Product arrived in good condition. My skin feels nice after washing and I enjoy the scent. Would reccomend.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Mild scent-Nice mild scent but very thick and gelatinous; hard to squeeze out of the bottle.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "perfect scent-This is a great body wash. I love the scent and the foaming capability is very nice. I do wish that it had more soap in it though as it seems like I go through it too fast.\n\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Grrreatt-This smells nice, i like the soothing smell of it. This definitely gets the job done. It actually does moisturize . Leaves you feeling clean, and the nice fresh smell just stays with you all day...\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Aromatherapy"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      }
+    ]
+  },
+  {
+    "review": "Hard to find*-Awesome, hard to find scent at a great price with super fast shipping.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Unique Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Cleans the face well and leaves nothing behind. Easy to use. Rinses off quickly. I would highly recommend this product to all men looking for a great face wash. (This review was collected as part of a promotion.)\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "No Residue"
+      }
+    ]
+  },
+  {
+    "review": "Feeling good-It works really well keeps my skin moist!\n\n",
+    "labels": [
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      }
+    ]
+  },
+  {
+    "review": "Great Body Wash!-Hubby loves this particular body wash! Delighted to find it on Amazon.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      }
+    ]
+  },
+  {
+    "review": "Amazingly refreshing-Harry has undoubtably done it again with this amazing body wash it complements the other skin care products that they have undoubtedly 100% I love the lather but the clean and fresh smell that tops it off is amazing [This review was collected as part of a promotion.]\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fresh Fragrance"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Recommend-Recommend this great value for body wash. Both my husband and I use it. As a female I appreciate the scent, as I find it very natural and soothing and not strictly masculine.\n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Big Consistency Issues-I didn't realize how much I could hate a shower gel. The consistency of this product is like jell-o - you need to use all your strength just to squeeze a little out of the bottle.\n",
+    "labels": [
+      {
+        "parent": "Product Texture",
+        "child": "Consistency"
+      },
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Great body wash-This was a great deal as well as a great product! The frangrance stays almost the whole day\n(depending on your activities). Butoverall a great body wash!!",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "My brother has used this several times and absolutely loves it. It makes it easy for him when going on trips as he can just take this\n",
+    "labels": [
+      {
+        "parent": "Packaging",
+        "child": "Travel-friendly"
+      }
+    ]
+  },
+  {
+    "review": "Suds up and cleans great-This is my first time using this product (or any product from Harrys) and it's a positive experience. This body wash suds up well (doesn't take a lot to wash my whole body) and seems to clean good. The scent is different than most body washes I've used, it kind of reminds me of the smell while clearing heavy brush.. or maybe a tea bag.. or something in between. [This review was collected as part of a promotion.]\n\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Natural Fragrance "
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Unique Fragrance"
+      },
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Lather"
+      }
+    ]
+  },
+  {
+    "review": "Great body wash-Great body wash. Boyfriend uses it every morning and skin is so soft and moisturized. The scent is lovely. I will totally recommend this product for daily use\n\n\n\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Skin Texture Improvement",
+        "child": "Softness"
+      }
+    ]
+  },
+  {
+    "review": "Clean and smell good-MY son asked me to buy these and I have become a fan. I use the Axe Dark Temptation every day. I come out of my shower smelling nice and feel clean.\n\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Peer Recommendation",
+        "child": "Family"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      }
+    ]
+  },
+  {
+    "review": "Smells great-Smells fantastic\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Classy man sent.-The scent has a bit of sophistication to it smells kind of high end like Macy's or Nordstrom not like Walmart or target.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Premium Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "My Husband Gives it 5 Stars!-The scent is great and my husband loves how it makes his skin feel. Definitely reordering!\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "It not strong scent-You're are going to be very disappointed, the scent is not strong and you don't feel that tingle feeling like other mint body washes that have peppermint.\n",
+    "labels": [
+      {
+        "parent": "Feel / Finish",
+        "child": "Cooling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Strength"
+      }
+    ]
+  },
+  {
+    "review": "Not a masculine scent-Smells like something a woman would use. Also noticed it gives me a rash when I use it. Should have returned it when I had the chance.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "It definitely smells a lot more like Sage than it does citrus. Has kind of a woodsy smell. The scent isn't unpleasant but it wasn't what I was expecting. Moisturizers your skin very well though.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      }
+    ]
+  },
+  {
+    "review": "Smells great!-I bought for my husband and I love the scent.\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Great-Great smell and works great\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Great Products-Great job Every Man Jack team! Excellent products and no sheshe packaging (or scents.) \n",
+    "labels": [
+      {
+        "parent": "Social Recognition",
+        "child": "Masculine"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Specialist"
+      }
+    ]
+  },
+  {
+    "review": "Smells wonderful-My husband likes and it makes him smell so good\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Great smell-My husband loves this body and face wash in the shower.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Great value.-Awesome body wash.\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "Smells good-Makes my grundle smell like a field of violets.\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Odor Control",
+        "child": "Sweat"
+      }
+    ]
+  },
+  {
+    "review": "Cheaper at Walmart-Much cheaper!\n\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Discounts / Promotions"
+      }
+    ]
+  },
+  {
+    "review": "Best Old Spice Scent-This has to be the best Old Spice scent there is! The tiny beads exfoliate for added cleansing and my skin smells good all day long. I also tried the Deodorant and was surprised about its long-lasting scent also. I can't rave about this product enough, definitely could be my new staple wash and deodorant.\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Exfoliation"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Granules"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      }
+    ]
+  },
+  {
+    "review": "This is what a man should smell like!!-Doesn't leave my skin dry and itchy.. Cleans extremely well and has a masculine scent that lasts. This is what a man should smell like!!! Loving this product!!!\n\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Long Lasting Fragrance"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Masculine Fragrance"
+      },
+      {
+        "parent": "Product Safety",
+        "child": "Side Effects"
+      }
+    ]
+  },
+  {
+    "review": "Great-Item as described wish it was a four pack though still great quality\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      },
+      {
+        "parent": "Packaging",
+        "child": "SKU"
+      }
+    ]
+  },
+  {
+    "review": "Where's the Cedarwood scent?-The deodorant smells great but the body wash and shampoo/conditioner has no cedarwood scent whatsoever. That is disappointing because I think they are quality products.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Fragrance Type"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      }
+    ]
+  },
+  {
+    "review": "Harry's products are always quality and affordable. They have a limited but great choice of smells and they leave you feeling fresh for the rest if the day.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      },
+      {
+        "parent": "Efficacy",
+        "child": "Long Lasting Results"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Price",
+        "child": "Affordability"
+      }
+    ]
+  },
+  {
+    "review": "Great Product. Purchased at the vitamins shoppe and instantly knew I was on to something great. I've tried all the fragrances and all delivered.\n",
+    "labels": [
+      {
+        "parent": "Efficacy",
+        "child": "Desired Results"
+      }
+    ]
+  },
+  {
+    "review": "Fiance loves it-Great value\n",
+    "labels": [
+      {
+        "parent": "Price",
+        "child": "Value Justification"
+      }
+    ]
+  },
+  {
+    "review": "good product-The little cleaning beads work well cleaning your body.\n",
+    "labels": [
+      {
+        "parent": "Cleansing",
+        "child": "Exfoliation"
+      },
+      {
+        "parent": "Product Texture",
+        "child": "Granules"
+      }
+    ]
+  },
+  {
+    "review": "I mean could you really ask for a better brand or quality. Using this makes me feel good all day. Extra clean extra squeaky. I love the brand. Love the smell.\n",
+    "labels": [
+      {
+        "parent": "Brand Value",
+        "child": "Best-In-Class"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Brand Affinity / Loyalty"
+      },
+      {
+        "parent": "Brand Value",
+        "child": "Product Quality"
+      },
+      {
+        "parent": "Cleansing",
+        "child": "Regular Cleansing"
+      },
+      {
+        "parent": "Efficacy",
+        "child": "Long Lasting Results"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "Sons favorite scent-Can't buy in store so my son gets a case very hear for Christmas\n",
+    "labels": [
+      {
+        "parent": "Accessibility",
+        "child": "Offline Availability"
+      },
+      {
+        "parent": "Accessibility",
+        "child": "Online Availability"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  },
+  {
+    "review": "I originally bought this for my husband but it smelled so great I started using it too. Can be a little drying if you already have dry skin\n",
+    "labels": [
+      {
+        "parent": "Companion Approval",
+        "child": "Spouse / Partner"
+      }
+    ]
+  },
+  {
+    "review": "Dont Buy-This crap doesnt dissolve in water and stains your entire shower BLUE\n",
+    "labels": [
+      {
+        "parent": "Convenience",
+        "child": "Product Application"
+      }
+    ]
+  },
+  {
+    "review": "Girls will like the way you smell-This scent was breathtaking the first time I used it. The girl I sit next to in class finally talked to me after a semester of ignoring me and copying my homework.\n\n",
+    "labels": [
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      },
+      {
+        "parent": "Social Recognition",
+        "child": "Sex Appeal"
+      }
+    ]
+  },
+  {
+    "review": "Green (Shiso) is good, Red (Fig) is great!-The green (Shiso) is refreshing and I love using it after a workout. I have gotten MANY compliments on the red (Fig) however, I am going to keep this one in my lineup for a long time.\n\n",
+    "labels": [
+      {
+        "parent": "Social Recognition",
+        "child": "Compliments (General)"
+      },
+      {
+        "parent": "Feel / Finish",
+        "child": "Fresh / Clean Feeling"
+      }
+    ]
+  },
+  {
+    "review": "Smells great and moisturizes-Will buy again\n",
+    "labels": [
+      {
+        "parent": "Skin Care",
+        "child": "Hydrating / Moisturizing"
+      },
+      {
+        "parent": "Fragrance",
+        "child": "Personal Likability (Fragrance)"
+      }
+    ]
+  }
+]
