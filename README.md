@@ -27,5 +27,7 @@ The HuggingFace embedding model provides efficient and accurate semantic similar
 
 ## Output Accuracy
 
-- **Jaccard Accuracy:** The average Jaccard accuracy between predicted and true labels is reported (see notebook output for the exact value, e.g., `📊 Average Jaccard Accuracy: 85.00%`).
+- **Jaccard Accuracy:** The average Jaccard accuracy between predicted and true labels is reported ( `📊 Average Jaccard Accuracy: 25.50%`).
 - **ROUGE Scores:** ROUGE-1 and ROUGE-2 F1 scores are also computed to evaluate the overlap between predicted and true label sets.
+`📊 ROUGE-1 F1: 40.67%
+📊 ROUGE-2 F1: 30.29%`
